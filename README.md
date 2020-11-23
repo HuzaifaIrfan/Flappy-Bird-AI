@@ -15,6 +15,13 @@ Pygame and NEAT(NeuroEvolution of Augmenting Topologies) Based Flappy Bird AI Th
 
 [NEAT](https://neat-python.readthedocs.io/en/latest/neat_overview.html)
 
+
+### Project By Tech with Tim
+
+[Video Playlist](https://www.youtube.com/playlist?list=PLzMcBGfZo4-lwGZWXz5Qgta_YNX3_vLS2)
+
+
+
 ## Project Screen Shot
 
 ![Final Screen Shot](/ss.png)
